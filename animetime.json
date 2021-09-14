@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "السبت",
+        "list" :[
+            {
+                "id" : "653",
+                "name" : "Detective Conan",
+                "image" : "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Detective_Conan.jpg",
+                "state" : "مستمر"
+            }
+
+        ]
+    },
+    {
+        "id" : "الأحد",
+        "list" :[
+
+        ]
+    },
+    {
+        "id" : "الإثنين",
+        "list" :[
+
+        ]
+    },
+    {
+        "id" : "الثلاثاء",
+        "list" :[
+
+        ]
+    },
+    {
+        "id" : "الأربعاء",
+        "list" :[
+
+        ]
+    },
+    {
+        "id" : "الخميس",
+        "list" :[
+
+        ]
+    },
+    {
+        "id" : "الجمعة",
+        "list" :[
+
+        ]
+    }
+]
