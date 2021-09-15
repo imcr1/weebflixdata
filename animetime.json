@@ -10,27 +10,11 @@
             }
 
 
-
         ]
     },
     {
         "id" : "الأحد",
         "list" :[
-
-            {
-                "id": "532",
-                "name": "One Piece",
-                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/One_Piece.jpg",
-                "status": "مستمر"
-            },
-            {
-                "id": "2357",
-                "name": "Boruto: Naruto Next Generations",
-                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Boruto_Naruto_Next_Generations.jpg",
-                "status": "مستمر"
-            }
-
-
 
         ]
     },
