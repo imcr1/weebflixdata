@@ -10,7 +10,6 @@
         "id":"661",
         "image":"https://i.ibb.co/bzvFM93/fullmetal.jpg"
     },
-
     {
         "name":"Shingeki no Kyojin",
         "id":"679",
@@ -25,7 +24,34 @@
         "name":"Black Clover (TV)",
         "id":"2553",
         "image":"https://i.ibb.co/ZNCRBrQ/blackclover.jpg"
+    },
+    {
+        "name":"One Piece",
+        "id":"532",
+        "image":"https://i.ibb.co/TTfkSTy/one-picei-cover.jpg"
+    },
+    {
+        "name":"Hunter x Hunter (2011)",
+        "id":"669",
+        "image":"https://i.ibb.co/3Mhv0sj/huntercover.jpg"
+    },
+    {
+        "name":"Death Note",
+        "id":"520",
+        "image":"https://i.ibb.co/wLXYj7f/deathnotecover.jpg"
+    },
+    {
+        "name":"Kimetsu no Yaiba",
+        "id":"3144",
+        "image":"https://i.ibb.co/W529yRD/demon-slayer-cover.jpg"
+    },
+
+    {
+        "name":"Jujutsu Kaisen (TV)",
+        "id":"3888",
+        "image":"https://i.ibb.co/jLVVN2W/jujtsucover.jpg"
     }
+
 
 
 
