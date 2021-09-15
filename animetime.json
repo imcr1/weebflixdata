@@ -13,7 +13,58 @@
                 "name": "D_Cide Traumerei the Animation",
                 "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/DCide_Traumerei_the_Animation.jpg",
                 "status": "مستمر"
+            },
+            {
+                "id": "3913",
+                "name": "Dragon Quest: Dai no Daibouken (2020)",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Dragon_Quest_Dai_no_Daibouken_2020.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4279",
+                "name": "Bokutachi no Remake",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Bokutachi_no_Remake.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4273",
+                "name": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Genjitsu_Shugi_Yuusha_no_Oukoku_Saikenki.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4299",
+                "name": "Kageki Shoujo!!",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Kageki_Shoujo.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4272",
+                "name": "Mahouka Koukou no Yuutousei",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Mahouka_Koukou_no_Yuutousei.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4214",
+                "name": "Tokyo Revengers",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Tokyo_Revengers.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4201",
+                "name": "Boku no Hero Academia 5th Season",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Boku_no_Hero_Academia_5th_Season.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4280",
+                "name": "Jahy-sama wa Kujikenai!",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Jahy-sama_wa_Kujikenai.jpg",
+                "status": "مستمر"
             }
+
+        
+        
 
 
         ]
@@ -32,36 +83,220 @@
                 "name": "Boruto: Naruto Next Generations",
                 "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Boruto_Naruto_Next_Generations.jpg",
                 "status": "مستمر"
+            },
+            {
+                "id": "4291",
+                "name": "Re-Main",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Re-Main.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4213",
+                "name": "Edens Zero",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Edens_Zero.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4287",
+                "name": "Shinigami Bocchan to Kuro Maid",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Shinigami_Bocchan_to_Kuro_Maid.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4274",
+                "name": "Tantei wa Mou, Shindeiru.",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Tantei_wa_Mou_Shindeiru.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4298",
+                "name": "IDOLiSH7: Third Beat!",
+                "{image}": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/IDOLiSH7_Third_Beat.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "3453",
+                "name": "Kingdom 3rd Season",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Kingdom_3rd_Season.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "653",
+                "name": "Detective Conan",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Detective_Conan.jpg",
+                "status": "مستمر"
             }
+            
+
+
         ]
     },
     {
         "id" : "الإثنين",
         "list" :[
+            {
+                "id": "4293",
+                "name": "Uramichi Oniisan",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Uramichi_Oniisan.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4297",
+                "name": "Deatte 5-byou de Battle",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Deatte_5-byou_de_Battle.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4283",
+                "name": "Seirei Gensouki",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Seirei_Gensouki.jpg",
+                "status": "مستمر"
+            }
 
         ]
     },
     {
         "id" : "الثلاثاء",
         "list" :[
+            {
+                "id": "4269",
+                "name": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2.jpg",
+                "status": "مستمر"
+            }
 
         ]
     },
     {
         "id" : "الأربعاء",
         "list" :[
+            {
+                "id": "4285",
+                "name": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Cheat_Kusushi_no_Slow_Life_Isekai_ni_Tsukurou_Drugstore.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4270",
+                "name": "Kobayashi-san Chi no Maid Dragon S",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Kobayashi-san_Chi_no_Maid_Dragon_S.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4296",
+                "name": "Night Head 2041",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Night_Head_2041.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4286",
+                "name": "Tsuki ga Michibiku Isekai Douchuu",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Tsuki_ga_Michibiku_Isekai_Douchuu.jpg",
+                "status": "مستمر"
+            }
+          
 
         ]
     },
     {
         "id" : "الخميس",
         "list" :[
+            {
+                "id": "4282",
+                "name": "Shiroi Suna no Aquatope",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Shiroi_Suna_no_Aquatope.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4294",
+                "name": "Scarlet Nexus",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Scarlet_Nexus.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "2806",
+                "name": "Dragon Ball Heroes",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Dragon_Ball_Heroes_ONA.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "2806",
+                "name": "Dragon Ball Heroes",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Dragon_Ball_Heroes_ONA.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4277",
+                "name": "Higurashi no Naku Koro ni Sotsu",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Higurashi_no_Naku_Koro_ni_Sotsu.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4278",
+                "name": "Heion Sedai no Idaten-tachi",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Heion_Sedai_no_Idaten-tachi.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4290",
+                "name": "Sonny Boy",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Sonny_Boy.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4292",
+                "name": "Love Live! Superstar!!",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Love_Live_Superstar.jpg",
+                "status": "مستمر"
+            }            
 
         ]
     },
     {
         "id" : "الجمعة",
         "list" :[
+            {
+                "id": "4236",
+                "name": "Blue Reflection Ray",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Blue_Reflection_Ray.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4276",
+                "name": "Kanojo mo Kanojo",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Kanojo_mo_Kanojo.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4271",
+                "name": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Otome_Game_no_Hametsu_Flag_shika_Nai_Akuyaku_Reijou_ni_Tensei_shiteshimatta_X.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4275",
+                "name": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/100-man_no_Inochi_no_Ue_ni_Ore_wa_Tatteiru_2nd_Season.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4289",
+                "name": "Meikyuu Black Company",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Meikyuu_Black_Company.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4281",
+                "name": "Vanitas no Carte",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Vanitas_no_Carte.jpg",
+                "status": "مستمر"
+            },
+            {
+                "id": "4281",
+                "name": "Vanitas no Carte",
+                "image": "https://www.animestarz.com/animeonline/templates/starzstyle/anime-cover/Vanitas_no_Carte.jpg",
+                "status": "مستمر"
+            }
 
         ]
     }
